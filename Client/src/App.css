@@ -1,0 +1,214 @@
+/* .background {
+  background-image: url("./public/Background.jpg");
+} */
+
+/* AddAttendee */
+.toAttendeeAddForm .left{
+  position: relative;
+  width:30%;
+  margin-top:15%;
+  margin-left:27%;
+  bottom: -12%;
+  opacity: 0.8;
+  background-color: #a4a4a4;
+  background-color: linear-gradient(
+    0deg,
+    #f2f2f2 6%,
+    #a4a4a4 42%,
+    #848484 100%
+  );
+  padding-left:1%;
+  padding-right:1%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius:2%;
+
+  font-weight: 900;
+}
+
+
+.toAttendeeAddForm .Right{
+  /* position: static; */
+  width:30%;
+  margin-top:-46.5%;
+  margin-left:60%;
+  /* margin-bottom:1%; */
+  opacity: 0.8;
+  background-color: #a4a4a4;
+  background-color: linear-gradient(
+    0deg,
+    #f2f2f2 6%,
+    #a4a4a4 42%,
+    #848484 100%
+  );
+  padding-left:1%;
+  padding-right:1%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius:2%;
+
+  font-weight: 900;
+}
+.toAttendeeAddForm .btn{
+  
+  position: absolute;
+  width:28%;
+  margin-left: 27%;
+  margin-top:13%;
+  
+}
+
+/* ResearchPay */
+
+.toResearcherPay{
+  position: relative;
+  width:70%;
+  margin-top:10%;
+  margin-left:25%;
+  bottom: -12%;
+  opacity: 0.8;
+  background-color: #a4a4a4;
+  background-color: linear-gradient(
+    0deg,
+    #f2f2f2 6%,
+    #a4a4a4 42%,
+    #848484 100%
+  );
+  padding-left:4%;
+  padding-right:4%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius:4%;
+
+  font-weight: 900;
+}
+
+.toResearcherPay .btn{
+  
+  position: absolute;
+  width:28%;
+  margin-left: 20%;
+  margin-top:10%;
+  
+}
+
+/* add Conference Details */
+.toConferenceAddForm{
+  position: relative;
+  width:70%;
+  margin-top:10%;
+  margin-left:25%;
+  bottom: -12%;
+  opacity: 0.8;
+  background-color: #a4a4a4;
+  background-color: linear-gradient(
+    0deg,
+    #f2f2f2 6%,
+    #a4a4a4 42%,
+    #848484 100%
+  );
+  padding-left:4%;
+  padding-right:4%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius:4%;
+
+  font-weight: 900;
+}
+
+.toConferenceAddForm .btn{
+  position: absolute;
+  width:50%;
+  margin-left: 20%;
+  margin-top:10%;
+}
+
+/* Conference profile css */
+.col-md-7 {
+  width: 50%;
+  display: block;
+  left: 30%;
+  margin-top: 9%;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  font-weight: 600;
+  padding-left: 2%;
+  opacity: 0.8;
+
+  border-radius: 10px;
+  
+  background-color: #a4a4a4;
+  background-color: linear-gradient(
+    0deg,
+    #f2f2f2 6%,
+    #a4a4a4 42%,
+    #848484 100%
+  );
+
+  text-align: center;
+  
+  
+}
+
+
+.col-md-7 .badge{
+  width: 25%;
+  height: 60%;
+
+  font-weight: 700;
+}
+
+
+/* List css */
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Crimson+Text:ital,wght@0,600;1,700&family=Fjalla+One&family=Lobster+Two&family=Marcellus+SC&family=Spectral+SC:wght@800&display=swap');
+.list .topic{
+  font-family: 'Lobster Two', cursive;
+  
+  left: 45%;
+  top:15%;
+  font-size: 40px;
+  
+}
+
+.list .col-md-8{
+  max-width: 50%;
+  margin-top:20%;
+  margin-left: 22%;
+}
+
+.list .topic2{
+  font-family: 'Lobster Two', cursive;
+  margin-left: 45%;
+  width: 100%;
+  
+}
+
+
+.list .col-md-6{
+  margin-left: 21%;
+}
+
+ul {
+  text-decoration: none;
+  font-size: 110%;
+  font-weight: 600;
+
+  text-align: center;
+  
+}
+
+.m-3 btn btn-sm btn-danger {
+  bottom: 5%;
+}
+
+.col-md-8 {
+  margin-top: 20%;
+  margin-left: 70%;
+}
+
+
+
+.m-3 btn btn-sm btn-danger {
+  bottom: 5%;
+}
+

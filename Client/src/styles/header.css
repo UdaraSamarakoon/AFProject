@@ -1,0 +1,33 @@
+.header {
+  display: block;
+  background-color: #848484;
+  position: fixed;
+  padding-top: 1px;
+  padding-bottom: 5px;
+  top: 0%;
+  width: 100%;
+  height: 13%;
+  opacity: 0.8;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Shrikhand&display=swap");
+
+.logo {
+  display: block;
+  padding-left: 2%;
+  margin-top: -0.5%;
+  margin-bottom: -30px;
+  margin-left: -1%;
+  float: left;
+  height: 120%;
+  width: 10%;
+}
+
+.header h2 {
+  margin-left: 10%;
+  margin-top: 1%;
+  font-size: 36px;
+  color: #000000;
+  font-family: "Cinzel Decorative", cursive;
+  /* font-family: "Shrikhand", cursive; */
+}
